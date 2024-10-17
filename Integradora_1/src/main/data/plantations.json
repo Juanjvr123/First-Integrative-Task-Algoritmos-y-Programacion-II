@@ -1,0 +1,18 @@
+[
+  { "name": "Ajo", "season": "SPRING" },
+  { "name": "Allium azul", "season": "SPRING" },
+  { "name": "Arroz sin moler", "season": "SPRING" },
+  { "name": "Chirivía", "season": "SPRING" },
+  { "name": "Amapola", "season": "SUMMER" },
+  { "name": "Arándano", "season": "SUMMER" },
+  { "name": "Carambola", "season": "SUMMER" },
+  { "name": "Chile", "season": "SUMMER" },
+  { "name": "Alcachofa", "season": "AUTUMN" },
+  { "name": "Amaranto", "season": "AUTUMN" },
+  { "name": "Baya de gema dulce", "season": "AUTUMN" },
+  { "name": "Berenjena", "season": "AUTUMN" },
+  { "name": "Melón de polvo", "season": "WINTER" },
+  { "name": "Fibra vegetal", "season": "OTHER" },
+  { "name": "Fruta milenaria", "season": "OTHER" },
+  { "name": "Fruto Qi", "season": "OTHER" }
+]

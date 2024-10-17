@@ -1,0 +1,28 @@
+[33mab55e25[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m All functional requirements implemented, class diagram and requirements analizis completed
+[33m4515df3[m Changes in Class diagram and Requirement analysis
+[33m08d4c35[m Structural modification
+[33mfac0f70[m Structural modification
+[33m47d46cf[m Json serialization modification
+[33md037a70[m Mejora del metodo Plant del R1
+[33m066b13d[m fixing bugs
+[33mfce8c47[m improvements classify chest, create chest, organize chest, good practices
+[33m79de393[m Requirements 5 and 8 implemented, changes to create chest method in main, more exceptions created, and minor changes to other classes
+[33m4617075[m Improvement chest
+[33m93e6e1e[m chest improvements merge into develop
+[33m5fbed60[m chest improvement, other slight improvements
+[33m0d70c6c[m improvements made to the create chest method, slight improvements to rq 6 and 7
+[33m8704647[m Functional Requirement 5 and 8 partially implemented
+[33m8a1ff4d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/hotfix[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Unit tests Created For First and Second Requirement Functions
+[33m78d9e6c[m implementacion requerimientos 6 y 7
+[33m00430b6[m Merge pull request #2 from APO-2/develop
+[33m8d73069[m Realizacion requerimiento 3 y 4
+[33mf9f2636[m Requerimiento 1 finalizado completamente, Requerimiento 2 finalizado
+[33m10490ad[m Requerimiento Funcional 1 completado, Error en la implementacion del main corregido
+[33m2474963[m Desarrollo Main
+[33m1b41393[m Adición de modelado de pruebas unitarias y avance en la estructura del programa
+[33m181b1e6[m Modificacion de nombres de las clases
+[33mf43163e[m First commit
+[33m783e65e[m add deadline
+[33m3b5af8a[m Setting up GitHub Classroom Feedback
+[33me3a425c[m[33m ([m[1;31morigin/feedback[m[33m)[m GitHub Classroom Feedback
+[33mb117a2e[m Initial commit
